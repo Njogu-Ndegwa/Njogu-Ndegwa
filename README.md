@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Dennis Njogu.
-#### Young dumb curious somewhat broke Fullstack Developer.
+#### Young adventurous dumb curious broke Fullstack Developer.
 
 <!--
 **Njogu-Ndegwa/Njogu-Ndegwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
