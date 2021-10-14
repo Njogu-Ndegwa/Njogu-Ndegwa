@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: snrnjogundegwa@gmail.com
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Njogu-Ndegwa.Njogu-Ndegwa)
 
 
 
