@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Dennis Njogu.
+#### I am a Software Engineer from Kenya.
 
 <!--
 **Njogu-Ndegwa/Njogu-Ndegwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
