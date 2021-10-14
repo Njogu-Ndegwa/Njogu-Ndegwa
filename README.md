@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 📫 How to reach me: snrnjogundegwa@gmail.com
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
