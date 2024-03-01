@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njogu-Ndegwa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 📫 How to reach me: snrnjogundegwa@gmail.com
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Njogu-Ndegwa.Njogu-Ndegwa)
 
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
